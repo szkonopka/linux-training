@@ -1,0 +1,9 @@
+razem 4
+-rw-rw-r-- 1 samzon samzon    0 mar 12 12:39 example1
+-rwxrwxrwx 1 samzon samzon    0 mar 12 12:39 example2
+-rw-rw-r-- 1 samzon samzon    0 mar 12 12:39 example3
+-rwxrwxrwx 1 samzon samzon    0 mar 12 12:39 example4
+-rwxrwxrwx 1 samzon samzon    0 mar 12 12:39 example5
+-rw-rw-r-- 1 samzon samzon    0 mar 12 12:39 example6
+-rw-rw-r-- 1 samzon samzon    0 mar 12 12:39 example_change
+drwxrwxr-x 2 samzon samzon 4096 mar 12 12:32 inside
