@@ -1,4 +1,6 @@
 #! /bin/bash
+# update modification date of files in chosen directory
+
 clear
 echo "You executed $0."
 if [ $# -ne 1 ]

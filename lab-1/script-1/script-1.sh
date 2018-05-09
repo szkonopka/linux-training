@@ -1,4 +1,6 @@
 #! /bin/bash
+# updates names of the files in directory by adding .old at the end of a file name
+
 clear
 echo "You executed $0."
 if [ $# -ne 1 ]
